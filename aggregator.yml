@@ -5,7 +5,7 @@ spring:
     name: aggregator
 app:
   temperature:
-    unit: C
+    unit: K
 eureka:
   client:
     service-url:
