@@ -2,7 +2,7 @@ server:
   port: 8080
 spring:
   application:
-    name: aggregator-microservice
+    name: aggregator
 app:
   temperature:
     unit: C
